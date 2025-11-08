@@ -1,0 +1,7 @@
+{
+  "name": "K-Beauty Skin Analyzer",
+  "description": "An application that allows users to upload a photo of their face and receive a skin analysis and recommendations based on Korean beauty standards, powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
